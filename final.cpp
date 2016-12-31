@@ -9,9 +9,9 @@
 //
 //PURPOSE:           Use Linked list of Classes to run a program designed to manage basketball statistics during a game.
 //
-//FILES:			 team.h
+//FILES:	     team.h
 //                   player.h
-//   				 team.cpp
+//		     team.cpp
 //                   player.cpp
 //                   finalDataFile.txt*
 //                       *contains Cleveland Cavaliers Roster.
